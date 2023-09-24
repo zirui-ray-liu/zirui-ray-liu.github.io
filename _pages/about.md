@@ -42,23 +42,17 @@ Harbin Insuitute of Technology, Harbin, China
 Harbin Insuitute of Technology, Harbin, China
 
 ### News
-**Sep. 2023:** Three paper accepted to Neurips.
+- Three paper accepted to Neurips.
 
-**Jun. 2023:** Two paper accepted to TMLR.
+- Two paper accepted to TMLR.
 
-**April. 2023:** Twos papers accepted to ICML 2023.
+- Twos papers accepted to ICML 2023.
 
-**Feb. 2023:** One paper accepted to MLSys 2023.
+- One paper accepted to MLSys 2023.
 
-**Sep. 2022:** Two papers accepted to Neurips 2022, DreamShard and GNN Benchmark (Benchmark track).
-
-**Jan. 2022:** Two papers accepted to ICLR 2022: [EXACT](https://openreview.net/forum?id=vkaMaq95_rX) and [instance-dependent label noise](https://openreview.net/pdf?id=ecH2FKaARUp).
-
-**Nov. 2021:** Publish  “DivAug: Plug-in Automated Data Augmentation with Explicit Diversity Maximization” @ [ICCV 2021](https://arxiv.org/abs/2103.14545). -A new plug-in automated data augmentation method without requiring the label information and the seperate search process.
-
-**May. 2021:** Thrilled to start my summer internship at Samsung Research America Ads AI team, supervised by [Dr. Li Li](https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en) and [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en).
+- Two papers accepted to Neurips 2022, DreamShard and GNN Benchmark (Benchmark track).
 
 
 ### Publications
 
-Please refer to [publications](https://jy-yuan.github.io/publications/) or [Google Scholar](https://scholar.google.com/citations?user=XMrlrV8AAAAJ).
+Please refer to [publications](https://scholar.google.com/citations?user=0i1w_egAAAAJ) or [Google Scholar](https://scholar.google.com/citations?user=0i1w_egAAAAJ).
