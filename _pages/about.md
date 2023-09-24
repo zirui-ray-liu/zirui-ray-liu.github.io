@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: zrl_profile.jpg
+  image: warai-otoko.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Duncan Hall, 3014</p>
