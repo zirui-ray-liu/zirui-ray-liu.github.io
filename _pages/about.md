@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Zirui "Ray" Liu, a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). Previously, I spent six wonderful years in [Harbin Institute of Technology](http://en.hit.edu.cn/). 
 
-My research interests lie in the large scale machine learning and data mining. I develop randomized algorithm (e.g., [randomized matrix mulplication](https://arxiv.org/abs/2305.15265)) and build systems to support them, aiming to scale-up and/or accerlate machine learning models.
+My research interests lie in the large scale machine learning and data mining. I develop randomized algorithm and build systems to support them, aiming to scale-up and/or accerlate machine learning models. Some examples include [randomized matrix mulplication](https://arxiv.org/abs/2305.15265), [randomized matrix sparsification](https://openreview.net/pdf?id=SaVEXFuozg), [stochastic quantization](https://openreview.net/pdf?id=vkaMaq95_rX).
 
 Email: zl105 at rice dot edu
 
