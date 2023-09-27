@@ -25,6 +25,8 @@ I’m Zirui "Ray" Liu, a Ph.D. student from the Department of [Computer Science 
 
 My research interests lie in the large scale machine learning and data mining. I develop randomized algorithm and build systems to support them, aiming to scale-up and/or accerlate machine learning models. Some examples include [randomized matrix mulplication](https://arxiv.org/abs/2305.15265), [randomized matrix sparsification](https://openreview.net/pdf?id=SaVEXFuozg), [stochastic quantization](https://openreview.net/pdf?id=vkaMaq95_rX).
 
+Recently, I've been exploring ways to train, fine-tune, and deploy large language models on common hardware, especially making them more accessible to academics
+
 Email: zl105 at rice dot edu
 
 ### Education
@@ -32,7 +34,7 @@ Email: zl105 at rice dot edu
 * Ph.D. in Computer Science, 2021 - now.  
 Rice University, TX, USA
 
-* Ph.D. in Computer Science, 2019 - 2021 (Transfer Out)
+* Ph.D. in Computer Science, 2019 - 2021 (Transfer Out).
 Texas A&M University, TX, USA
 
 * M.Eng. in Electrical Engineering and Automation, 2016 - 2018.  
