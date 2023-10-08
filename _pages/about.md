@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Duncan Hall, 3014</p>
