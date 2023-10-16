@@ -23,9 +23,9 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Zirui "Ray" Liu, a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html). Previously, I spent six wonderful years in [Harbin Institute of Technology](http://en.hit.edu.cn/). 
 
-My research interests lie in the large scale machine learning and data mining. I develop randomized algorithm and build systems to support them, aiming to scale-up and/or accerlate machine learning models. Some examples include [randomized matrix mulplication](https://arxiv.org/abs/2305.15265), [randomized matrix sparsification](https://openreview.net/pdf?id=SaVEXFuozg), [stochastic quantization](https://openreview.net/pdf?id=vkaMaq95_rX).
+My research interests lie in the **large scale machine learning and data mining**. I develop randomized algorithm and build systems to support them, aiming to scale-up and/or accerlate machine learning models. Some examples include [randomized matrix mulplication](https://arxiv.org/abs/2305.15265), [randomized matrix sparsification](https://openreview.net/pdf?id=SaVEXFuozg), [stochastic quantization](https://openreview.net/pdf?id=vkaMaq95_rX).
 
-Recently, I've been exploring ways to train, [fine-tune](https://arxiv.org/abs/2305.15265), and [deploy](https://browse.arxiv.org/pdf/2305.11186.pdf) Large Language Models on commodity hardware, especially making them more accessible to academics.
+Recently, I've been exploring ways to train, [fine-tune](https://arxiv.org/abs/2305.15265), and [deploy](https://browse.arxiv.org/pdf/2305.11186.pdf) **Large Language Models (LLMs)** on commodity hardware, especially making them more accessible to academics.
 
 Email: zl105 at rice dot edu
 
