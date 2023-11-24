@@ -29,6 +29,8 @@ Recently, I've been exploring ways to train, [fine-tune](https://arxiv.org/abs/2
 
 Email: zl105 at rice dot edu
 
+**I’m graduating in 2024 and am actively seeking a tenure-track faculty position.**
+
 ### Education
 
 * Ph.D. in Computer Science, 2021 - now.  
