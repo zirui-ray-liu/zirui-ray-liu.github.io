@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Zirui "Ray" Liu, a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html).
+I’m Zirui "Ray" Liu, a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
 
 My research interests lie in **large-scale machine learning**. I develop randomized algorithm and build systems to support them, aiming to scale-up and/or accerlate machine learning models. Some examples include [randomized matrix mulplication](https://arxiv.org/abs/2305.15265), [randomized matrix sparsification](https://openreview.net/pdf?id=SaVEXFuozg), [stochastic quantization](https://openreview.net/pdf?id=vkaMaq95_rX).
 
