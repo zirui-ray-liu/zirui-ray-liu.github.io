@@ -46,6 +46,8 @@ Harbin Insuitute of Technology, Harbin, China
 Harbin Insuitute of Technology, Harbin, China
 
 ### News
+- Our new work [kivi](https://arxiv.org/pdf/2402.02750.pdf) shows that 2-bit is enough for representing KV Cache! It can improve inference throughput by **3X** and provide direct support for **long context**. Please check our [code](https://github.com/jy-yuan/KIVI?tab=readme-ov-file) to have a try.
+
 - Our [Memory-Efficient LLM fine-tuning](https://arxiv.org/abs/2305.15265) work is covered by [Rice CS New](https://csweb.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications).
 
 - Three paper accepted to Neurips.
