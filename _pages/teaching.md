@@ -12,7 +12,7 @@ nav_order: 2
 * Ph.D. in Computer Science, 2021 - now.  
 Rice University, TX, USA
 
-* Ph.D. in Computer Science, 2019 - 2021 (Transfer Out)
+* Ph.D. in Computer Science, 2019 - 2021 (Transfer Out).
 Texas A&M University, TX, USA
 
 * M.Eng. in Electrical Engineering and Automation, 2016 - 2018.  
@@ -22,9 +22,6 @@ Harbin Insuitute of Technology, Harbin, China
 Harbin Insuitute of Technology, Harbin, China
 
 ### Internship
-
-<!-- * Research Engineer Intern at Baidu Inc., 2021.  
-Topic: Fingerprint algorithms on massive multimodal data -->
 
 * Research Intern at LinkedIn AI foundation team, Sunnyvale, May. 2022 - Aug 2022\\
 Mentor: [Dr. Qingquan Song](https://qingquansong.github.io/)\\

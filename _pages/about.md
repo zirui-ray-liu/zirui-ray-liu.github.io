@@ -23,34 +23,30 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Zirui "Ray" Liu, a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
 
-My research interests lie in **large-scale machine learning**. I develop randomized algorithm and build systems to support them, aiming to scale-up and/or accerlate machine learning models. Some examples include [randomized matrix mulplication](https://arxiv.org/abs/2305.15265), [randomized matrix sparsification](https://openreview.net/pdf?id=SaVEXFuozg), [stochastic quantization](https://openreview.net/pdf?id=vkaMaq95_rX).
+My research interests lie in **large-scale machine learning and machine learning system**. I co-design algorithm and system, aiming to scale-up and/or accerlate machine learning models. Some examples include [LLM KV Cache quantization](https://arxiv.org/pdf/2402.02750), [randomized matrix mulplication for LLMs](https://arxiv.org/abs/2305.15265), and [GNN quantization](https://openreview.net/pdf?id=vkaMaq95_rX).
 
-Recently, I've been exploring ways to train, [fine-tune](https://arxiv.org/abs/2305.15265), and [deploy](https://browse.arxiv.org/pdf/2305.11186.pdf) **Large Language Models (LLMs)** on commodity hardware, especially making them more accessible to academics.
+<!-- Recently, I've been exploring ways to train, [fine-tune](https://arxiv.org/abs/2305.15265), and [deploy](https://browse.arxiv.org/pdf/2305.11186.pdf) **Large Language Models (LLMs)** on commodity hardware, especially making them more accessible to academics. -->
 
 Email: zl105 at rice dot edu. Here is my [CV](https://zirui-ray-liu.github.io/assets/pdf/cv_zrl.pdf).
 
-**I’m graduating in 2024 and am actively seeking a tenure-track faculty position.**
+**I will join the Department of Computer Science at University of Minnesota Twin Cities as a tenure-track Assistant Professor.**
 
-### Education
+Feel free to reach out if you would like to collaborate on MLSys or on-device ML research.
 
-* Ph.D. in Computer Science, 2021 - now.  
-Rice University, TX, USA
-
-* Ph.D. in Computer Science, 2019 - 2021 (Transfer Out).
-Texas A&M University, TX, USA
-
-* M.Eng. in Electrical Engineering and Automation, 2016 - 2018.  
-Harbin Insuitute of Technology, Harbin, China
-
-* B.Eng. in Electrical Engineering and Automation, 2012 - 2016.  
-Harbin Insuitute of Technology, Harbin, China
+Prospective students: I am looking for self-motivated students. Feel free to drop me a line to ziruiliu.recruit@gmail.com together with resume and transcripts if you are interested.
 
 ### News
-- Our new work [kivi](https://arxiv.org/pdf/2402.02750.pdf) shows that 2-bit is enough for representing KV Cache! It can improve inference throughput by **3X** and provide direct support for **long context**. Please check our [code](https://github.com/jy-yuan/KIVI?tab=readme-ov-file) to have a try.
+<!-- - Our new work [KIVI](https://arxiv.org/pdf/2402.02750.pdf) shows that 2-bit is enough for representing KV Cache! It can improve inference throughput by 3X and provide direct support for long context tasks. Please check our [code](https://github.com/jy-yuan/KIVI?tab=readme-ov-file) to have a try. -->
+
+- 🔥🔥 Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf) largely inspires the [KV Cache quantization system in Huggingface](https://huggingface.co/docs/transformers/main/en/generation_strategies#kv-cache-quantization). Code is available [here](https://github.com/jy-yuan/KIVI); And our [Self-Extend](https://arxiv.org/abs/2401.01325) is highlighted during [Google I/O session](https://www.youtube.com/watch?v=TV7qCk1dBWA). Code is available [here](https://colab.research.google.com/drive/1jtaOyPOUQh7QksTVIV8oOvDKRGf0NrAZ).
+
+
+- Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf), [Self-Extend](https://arxiv.org/abs/2401.01325), and [Compress-then-prompt](https://arxiv.org/abs/2305.11186) are accepted by ICML 2024.
+
 
 - Our [Memory-Efficient LLM fine-tuning](https://arxiv.org/abs/2305.15265) work is covered by [Rice CS New](https://csweb.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications).
 
-- Three paper accepted to Neurips.
+- Three paper accepted to Neurips 2023.
 
 - Two paper accepted to TMLR.
 
