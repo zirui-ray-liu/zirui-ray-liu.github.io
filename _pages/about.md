@@ -31,7 +31,7 @@ My core research interests lie in **large-scale machine learning and machine lea
 
 Feel free to reach out if you would like to collaborate on MLSys or on-device ML research.
 
-📧📧 Prospective students: **I am looking for self-motivated students with strong background in coding and ML**. Feel free to drop me a line to [ziruiliu.recruit@gmail.com](ziruiliu.recruit@gmail.com) together with resume and transcripts if you are interested.
+📧📧 **Prospective students: I am looking for self-motivated students with strong background in coding and ML**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume and transcripts if you are interested.
 
 ### News
 <!-- - Our new work [KIVI](https://arxiv.org/pdf/2402.02750.pdf) shows that 2-bit is enough for representing KV Cache! It can improve inference throughput by 3X and provide direct support for long context tasks. Please check our [code](https://github.com/jy-yuan/KIVI?tab=readme-ov-file) to have a try. -->
