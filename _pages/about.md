@@ -27,12 +27,12 @@ My core research interests lie in **large-scale machine learning and machine lea
 
 <!-- Recently, I've been exploring ways to train, [fine-tune](https://arxiv.org/abs/2305.15265), and [deploy](https://browse.arxiv.org/pdf/2305.11186.pdf) **Large Language Models (LLMs)** on commodity hardware, especially making them more accessible to academics. -->
 
-**<span style="color: red">I will join the CS Department at University of Minnesota Twin Cities as an Assistant Professor</span>**
+**<span style="color: red">I will join the CS Department at University of Minnesota Twin Cities as an Assistant Professor in Fall 2024</span>**
 
 Feel free to reach out if you would like to collaborate on MLSys or on-device ML research.
 
 
-📧📧 **<span style="color: red">Recruiting 2025 Fall Ph.D. students and interns</span>: I am looking for self-motivated students with strong background in HPC, NLP, and ML**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume and transcripts if you are interested.
+📧📧 **<span style="color: red">Recruiting 2025 Spring/Fall Ph.D. students and interns</span>: I am looking for self-motivated students with strong background in HPC, NLP, and ML**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume and transcripts if you are interested.
 
 ### News
 <!-- - Our new work [KIVI](https://arxiv.org/pdf/2402.02750.pdf) shows that 2-bit is enough for representing KV Cache! It can improve inference throughput by 3X and provide direct support for long context tasks. Please check our [code](https://github.com/jy-yuan/KIVI?tab=readme-ov-file) to have a try. -->
