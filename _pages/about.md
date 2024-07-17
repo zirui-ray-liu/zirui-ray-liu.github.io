@@ -21,13 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Zirui "Ray" Liu, a Ph.D. student from the Department of [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
+I’m Zirui "Ray" Liu, an incoming assistant professor from the Department of [Computer Science at UMN](https://cse.umn.edu/cs). Previously I graduated from [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
 
 My core research interests lie in **large-scale machine learning and machine learning system**. I co-design algorithm and system, aiming to scale-up and/or accerlate machine learning models. Some examples include [LLM KV Cache quantization](https://arxiv.org/pdf/2402.02750), [randomized matrix mulplication](https://arxiv.org/abs/2305.15265), and [GNN quantization](https://openreview.net/pdf?id=vkaMaq95_rX). Besides MLsys, I am also interested in other **core problems/applications in LLMs like RAG, long context ability, and LLM safety.**
 
 <!-- Recently, I've been exploring ways to train, [fine-tune](https://arxiv.org/abs/2305.15265), and [deploy](https://browse.arxiv.org/pdf/2305.11186.pdf) **Large Language Models (LLMs)** on commodity hardware, especially making them more accessible to academics. -->
 
-**<span style="color: red">I will join the CS Department at University of Minnesota Twin Cities as an Assistant Professor in Fall 2024</span>**
+<!-- **<span style="color: red">I will join the CS Department at University of Minnesota Twin Cities as an Assistant Professor in Fall 2024</span>** -->
 
 Feel free to reach out if you would like to collaborate on MLSys or on-device ML research.
 
