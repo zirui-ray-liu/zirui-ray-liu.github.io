@@ -8,10 +8,6 @@ profile:
   align: right
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Duncan Hall, 3014</p>
-    <p>6100 Main St</p>
-    <p>Houston, TX 77005</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
