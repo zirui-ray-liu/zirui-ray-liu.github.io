@@ -36,7 +36,7 @@ My research is broadly focused on **Efficient ML/MLSys, LLM, GraphML**. Recently
 
 <!-- **<span style="color: red">I will join the CS Department at University of Minnesota Twin Cities as an Assistant Professor in Fall 2024</span>** -->
 
-Feel free to reach out if you would like to collaborate on MLSys or on-device ML research.
+Feel free to reach out if you would like to collaborate on MLSys, LLM, or on-device ML research.
 
 
 📧📧 **<span style="color: red">Recruiting 2025 Spring/Fall Ph.D. students and interns</span>: I am looking for self-motivated students with strong background in HPC, NLP, and ML**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume and transcripts if you are interested.
