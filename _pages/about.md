@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Zirui "Ray" Liu, an incoming assistant professor from the Department of [Computer Science at UMN](https://cse.umn.edu/cs). Previously I graduated from [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
 
-My research is broadly focused on Efficient ML/MLSys, LLM, GraphML. Recently I am mostly interested in Large Language Models and their applications. Below are some topics I am working on or exploring:
+My research is broadly focused on **Efficient ML/MLSys, LLM, GraphML**. Recently I am mostly interested in **Large Language Models** and their applications. Below are some topics I am working on or exploring:
 
 -  **Efficent LLM:** Making LLMs more accessible through hardware-aware approaches, like optmizing compression, architecture, implementation, training/deployment strategies. I strongly believe that a good system design requires a deep understanding of the workload, along with a thorough knowledge of the capabilities and limitations of current LLMs.
 
