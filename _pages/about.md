@@ -23,9 +23,16 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Zirui "Ray" Liu, an incoming assistant professor from the Department of [Computer Science at UMN](https://cse.umn.edu/cs). Previously I graduated from [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
 
-My core research interests lie in **large-scale machine learning and machine learning system**. I co-design algorithm and system, aiming to scale-up and/or accerlate machine learning models. Some examples include [LLM KV Cache quantization](https://arxiv.org/pdf/2402.02750), [randomized matrix mulplication](https://arxiv.org/abs/2305.15265), and [GNN quantization](https://openreview.net/pdf?id=vkaMaq95_rX). Besides MLsys, I am also interested in other **core problems/applications in LLMs like RAG, long context ability, and LLM safety.**
+My research is broadly focused on Efficient ML/MLSys, LLM, GraphML. Recently I am mostly interested in Large Language Models and their applications. Below are some topics I am working on or exploring:
 
-<!-- Recently, I've been exploring ways to train, [fine-tune](https://arxiv.org/abs/2305.15265), and [deploy](https://browse.arxiv.org/pdf/2305.11186.pdf) **Large Language Models (LLMs)** on commodity hardware, especially making them more accessible to academics. -->
+-  **Efficent LLM:** Making LLMs more accessible through hardware-aware approaches, like optmizing compression, architecture, implementation, training/deployment strategies. I strongly believe that a good system design requires a deep understanding of the workload, along with a thorough knowledge of the capabilities and limitations of current LLMs.
+
+- **Fundamental development of LLM:** like improving long-context/reasoning/retrieval/memory ability; designing experiments to understand LLMs.
+
+- **Extending Transformers beyond Text:** exploring the interplay between Transformers and various domains, like Graphs, Proteins, Gene, and Healthcare.
+
+<!-- My core research interests lie in **large-scale machine learning and machine learning system**. I co-design algorithm and system, aiming to scale-up and/or accerlate machine learning models. Some examples include [LLM KV Cache quantization](https://arxiv.org/pdf/2402.02750), [randomized matrix mulplication](https://arxiv.org/abs/2305.15265), and [GNN quantization](https://openreview.net/pdf?id=vkaMaq95_rX). Besides MLsys, I am also interested in other **core problems/applications in LLMs like RAG, long context ability, and LLM safety.** -->
+
 
 <!-- **<span style="color: red">I will join the CS Department at University of Minnesota Twin Cities as an Assistant Professor in Fall 2024</span>** -->
 
