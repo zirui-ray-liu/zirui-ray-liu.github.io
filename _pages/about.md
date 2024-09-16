@@ -45,7 +45,7 @@ Feel free to reach out if you would like to collaborate on MLSys, LLM, or on-dev
 - 🔥🔥 Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf) largely inspires the [KV Cache quantization system in Huggingface](https://huggingface.co/docs/transformers/main/en/kv_cache). Code is available [here](https://github.com/jy-yuan/KIVI); And our [Self-Extend](https://arxiv.org/abs/2401.01325) is highlighted during [Google I/O session](https://www.youtube.com/watch?v=TV7qCk1dBWA&t=2025s). Code is available [here](https://github.com/datamllab/LongLM).
 
 
-- Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf), [Self-Extend](https://arxiv.org/abs/2401.01325), and [Compress-then-prompt](https://arxiv.org/abs/2305.11186) are accepted by ICML 2024. [Self-Extend](https://arxiv.org/abs/2401.01325) has been selected as <span style="color: red"><span style="color: red">Spotlight (3.5%)</span></span> at ICML2024!
+- Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf), [Self-Extend](https://arxiv.org/abs/2401.01325), and [Compress-then-prompt](https://openreview.net/forum?id=muBJPCIqZT) are accepted by ICML 2024. [Self-Extend](https://arxiv.org/abs/2401.01325) has been selected as <span style="color: red"><span style="color: red">Spotlight (3.5%)</span></span> at ICML2024!
 
 
 - Our [Memory-Efficient LLM fine-tuning](https://arxiv.org/abs/2305.15265) work is covered by [Rice CS New](https://csweb.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications).
