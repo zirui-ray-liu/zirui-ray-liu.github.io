@@ -40,7 +40,7 @@ Feel free to reach out if you would like to collaborate on MLSys, LLM, or on-dev
 ### News
 <!-- - Our new work [KIVI](https://arxiv.org/pdf/2402.02750.pdf) shows that 2-bit is enough for representing KV Cache! It can improve inference throughput by 3X and provide direct support for long context tasks. Please check our [code](https://github.com/jy-yuan/KIVI?tab=readme-ov-file) to have a try. -->
 
-- [KVCache Compression Benchmark](https://arxiv.org/pdf/2407.01527) accepted at EMNLP24. If you want to know the research landspace of this area, please take a look at the [code](https://github.com/henryzhongsc/longctx_bench).
+- [KVCache Compression Benchmark](https://arxiv.org/pdf/2407.01527) accepted at EMNLP24. If you want to know the research landspace of this area, take a look at the [paper](https://arxiv.org/pdf/2407.01527) and [code](https://github.com/henryzhongsc/longctx_bench).
 
 - Introduced a [rare disease question-answering (ReDis-QA) dataset](https://huggingface.co/datasets/guan-wang/ReDis-QA) to assess the chatbot ability of diagnosing rare diseases.
 
