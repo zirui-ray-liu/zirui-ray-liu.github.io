@@ -7,9 +7,14 @@ nav: true
 nav_order: 2
 ---
 
+### Experience
+* Assistant Professor in Computer Science, Aug. 2024 -  
+University of Minnesota, MN, USA
+
+
 ### Education
 
-* Ph.D. in Computer Science, 2021 - now.  
+* Ph.D. in Computer Science, 2021 - 2024.  
 Rice University, TX, USA
 
 * Ph.D. in Computer Science, 2019 - 2021 (Transfer Out).
@@ -21,7 +26,7 @@ Harbin Insuitute of Technology, Harbin, China
 * B.Eng. in Electrical Engineering and Automation, 2012 - 2016.  
 Harbin Insuitute of Technology, Harbin, China
 
-### Internship
+<!-- ### Internship
 
 * Research Intern at LinkedIn AI foundation team, Sunnyvale, May. 2022 - Aug 2022\\
 Mentor: [Dr. Qingquan Song](https://qingquansong.github.io/)\\
@@ -37,4 +42,4 @@ Topic: Improving the performance of models deployed on the digital advertising p
 
 * Research Intern at 4Paradigm, Beijing, Mar. 2019 - Aug 2019\\
 Mentor: Mr. Xiawei Guo\\
-Topic: AutoML on tabular data
+Topic: AutoML on tabular data -->
