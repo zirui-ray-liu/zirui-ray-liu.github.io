@@ -19,23 +19,27 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Zirui "Ray" Liu, an assistant professor from the Department of [Computer Science at UMN](https://cse.umn.edu/cs). Previously I graduated from [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
 
-My research is broadly focused on **Efficient ML/MLSys, LLM, GraphML**. Recently I am mostly interested in **Large Language Models** and their applications. Below are some topics I am working on or exploring:
+I am mostly interested in *Large Language Models* and their applications, focusing on enabling them to **combine and process information from diverse sources and domains**.  For that reason I deeply care about **efficiency, reasoning, long-context ability, and understanding their inner working mechanism**. I also enjoy **extending foundation models to other domains**, exploring the interplay between different source of data.
 
--  **Efficent LLM:** Making LLMs more accessible through hardware-aware approaches, like optmizing compression, architecture, implementation, training/deployment strategies. I strongly believe that a good system design requires a deep understanding of the workload, along with a thorough knowledge of the capabilities and limitations of current LLMs.
 
-- **Fundamental development of LLM:** like improving long-context/reasoning/retrieval/memory ability; designing experiments to understand LLMs.
 
-- **Extending Transformers beyond Text:** exploring the interplay between Transformers and various domains, like Graphs, Proteins, Gene, and Healthcare.
+<!-- - **Core LLM:** like improving long-context/reasoning/retrieval/memory ability; designing experiments to understand LLMs. -->
+
+<!-- -  **Efficent LLM:** Making LLMs more accessible through hardware-aware approaches, like optmizing compression, implementation, training strategies.  -->
+
+<!-- I strongly believe that a good system design requires a deep understanding of the workload, along with a thorough knowledge of the capabilities and limitations of current LLMs. -->
+
+<!-- - **Extending Transformers beyond Text:** exploring the interplay between Transformers and various domains, like Graphs, Proteins, Gene, and Healthcare. -->
 
 <!-- My core research interests lie in **large-scale machine learning and machine learning system**. I co-design algorithm and system, aiming to scale-up and/or accerlate machine learning models. Some examples include [LLM KV Cache quantization](https://arxiv.org/pdf/2402.02750), [randomized matrix mulplication](https://arxiv.org/abs/2305.15265), and [GNN quantization](https://openreview.net/pdf?id=vkaMaq95_rX). Besides MLsys, I am also interested in other **core problems/applications in LLMs like RAG, long context ability, and LLM safety.** -->
 
 
 <!-- **<span style="color: red">I will join the CS Department at University of Minnesota Twin Cities as an Assistant Professor in Fall 2024</span>** -->
 
-Feel free to reach out if you would like to collaborate on MLSys, LLM, or on-device ML research.
+<!-- Feel free to reach out if you would like to collaborate on LLM, MLSys or on-device ML research. -->
 
 
-📧📧 **<span style="color: red">Recruiting 2025 Spring/Fall Ph.D. students and interns</span>: I am looking for self-motivated students with strong background in HPC, NLP, and ML**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume and transcripts if you are interested.
+📧📧 **<span style="color: red">Recruiting 2025 Fall Ph.D. students and interns</span>: I am always looking for self-motivated students with strong coding skills**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume, transcripts, and a short description of why you'd like to work with me.
 
 ### News
 <!-- - Our new work [KIVI](https://arxiv.org/pdf/2402.02750.pdf) shows that 2-bit is enough for representing KV Cache! It can improve inference throughput by 3X and provide direct support for long context tasks. Please check our [code](https://github.com/jy-yuan/KIVI?tab=readme-ov-file) to have a try. -->
