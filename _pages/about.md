@@ -48,7 +48,7 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 
 - Introduced a [rare disease question-answering (ReDis-QA) dataset](https://huggingface.co/datasets/guan-wang/ReDis-QA) to assess the chatbot ability of diagnosing rare diseases.
 
-- 🔥🔥 Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf) largely inspires the [KV Cache quantization system in Huggingface](https://huggingface.co/docs/transformers/main/en/kv_cache). Code is available [here](https://github.com/jy-yuan/KIVI); And our [Self-Extend](https://arxiv.org/abs/2401.01325) is highlighted during [Google I/O session](https://www.youtube.com/watch?v=TV7qCk1dBWA&t=2025s). Code is available [here](https://github.com/datamllab/LongLM).
+- 🔥🔥 Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf) largely inspires the [KV Cache quantization system in Huggingface](https://huggingface.co/docs/transformers/main/en/kv_cache). Code is available [here](https://github.com/jy-yuan/KIVI); And our [Self-Extend](https://arxiv.org/abs/2401.01325) is used in [Llama.cpp](https://github.com/ggerganov/llama.cpp/pull/4815), implemented by [KerasNLP](https://github.com/google-gemini/gemma-cookbook/blob/main/Gemma/Self_extend_Gemma.ipynb), and highlighted during [Google I/O session](https://www.youtube.com/watch?v=TV7qCk1dBWA&t=2025s). Code is available [here](https://github.com/datamllab/LongLM).
 
 
 - Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf), [Self-Extend](https://arxiv.org/abs/2401.01325), and [Compress-then-prompt](https://openreview.net/forum?id=muBJPCIqZT) are accepted by ICML 2024. [Self-Extend](https://arxiv.org/abs/2401.01325) has been selected as <span style="color: red"><span style="color: red">Spotlight (3.5%)</span></span> at ICML2024!
