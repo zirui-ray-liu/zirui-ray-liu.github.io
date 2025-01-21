@@ -17,7 +17,8 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Zirui "Ray" Liu, an assistant professor from the Department of [Computer Science at UMN](https://cse.umn.edu/cs). Previously I graduated from [Computer Science at Rice University](https://cs.rice.edu/), co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/).
+I’m Zirui "Ray" Liu, an assistant professor from the Department of [Computer Science at UMN](https://cse.umn.edu/cs). Previously I graduated from [Computer Science at Rice University](https://cs.rice.edu/).
+<!-- co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/). -->
 
 I am mostly interested in *Large Language Models* and their applications, focusing on enabling them to **combine and process information from diverse sources and domains**.  For that reason I deeply care about **efficiency, reasoning, long-context ability, and understanding their inner working mechanism**. I also enjoy **extending foundation models to other domains**, exploring the interplay between different source of data.
 
@@ -42,7 +43,6 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 📧📧 **<span style="color: red">Recruiting 2025 Fall Ph.D. students and interns</span>: I am always looking for self-motivated students with strong coding skills**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume, transcripts, and a short description of why you'd like to work with me.
 
 ### News
-<!-- - Our new work [KIVI](https://arxiv.org/pdf/2402.02750.pdf) shows that 2-bit is enough for representing KV Cache! It can improve inference throughput by 3X and provide direct support for long context tasks. Please check our [code](https://github.com/jy-yuan/KIVI?tab=readme-ov-file) to have a try. -->
 
 - [KVCache Compression Benchmark](https://arxiv.org/pdf/2407.01527) accepted at EMNLP24. If you want to know the research landspace of this area, take a look at the [paper](https://arxiv.org/pdf/2407.01527) and [code](https://github.com/henryzhongsc/longctx_bench).
 
