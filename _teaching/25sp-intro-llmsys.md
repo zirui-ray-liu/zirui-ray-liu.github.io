@@ -13,6 +13,8 @@ related_publications:
 
 **Time**: Spring 2025, M/W 4:00 PM - 05:15 PM
 
+**Location**: Amundson Hall 158
+
 #### **Course Description**
 
 Recent progress of Artificial Intelligence has been largely driven by advances in large language models (LLMs) and other generative methods. The success of LLMs is driven by three key factors: the scale of data, the size of models, and the computational resources available. For example, Llama 3, a cutting- edge LLM with 405 billion parameters, was trained over 15 trillion tokens using 16,000 H100 GPUs. Thus, training, serving, fine-tuning, and evaluating such models demand sophisticated engineering practices that leverage modern hardware and software infrastructures. Building scalable systems for LLMs is essential for further advancing AI capabilities.
