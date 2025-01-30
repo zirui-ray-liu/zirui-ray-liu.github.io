@@ -25,6 +25,9 @@ In this course, students will learn the design principle of a good Machine Learn
 The course will include **five short quizzes** and **a final project**. The final project can be completed individually or collaboratively in groups of up to three students. Presentations for the final project will occur during the last three weeks of the semester and will include a Q&A session.
 For the final project, students must select a research paper focused on MLSys. They will critically analyze the paper to identify its limitations or areas that could be improved. Based on this analysis, students are expected to propose and develop a solution to address the identified issues or introduce an innovative idea to enhance the research.
 
+#### **Acknowledgement**
+
+Many of my course contents are inspired by the great materials from [CMU's Large Language Model Systems Course](https://llmsystem.github.io/llmsystem2025spring/docs/Syllabus) and [CMU's Deep Learning Systems Course](https://dlsyscourse.org/lectures/)
 
 ####  **Course Schedule (tentative)**
 
