@@ -44,6 +44,8 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 
 ### News
 
+- Giving one tutorial at AAAI 2025 about KV Cache Optimization. Slide can be found [here](https://github.com/henryzhongsc/longctx_bench/issues/6)
+
 - Two paper accepted at ICLR 2025. One about LLM-based file system and one about zero-order fine-tuning of LLMs
 
 - [KVCache Compression Benchmark](https://arxiv.org/pdf/2407.01527) accepted at EMNLP24. If you want to know the research landspace of this area, take a look at the [paper](https://arxiv.org/pdf/2407.01527) and [code](https://github.com/henryzhongsc/longctx_bench).
@@ -56,9 +58,9 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 - Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf), [Self-Extend](https://arxiv.org/abs/2401.01325), and [Compress-then-prompt](https://openreview.net/forum?id=muBJPCIqZT) are accepted by ICML 2024. [Self-Extend](https://arxiv.org/abs/2401.01325) has been selected as <span style="color: red"><span style="color: red">Spotlight (3.5%)</span></span> at ICML2024!
 
 
-- Our [Memory-Efficient LLM fine-tuning](https://arxiv.org/abs/2305.15265) work is covered by [Rice CS New](https://csweb.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications).
+<!-- - Our [Memory-Efficient LLM fine-tuning](https://arxiv.org/abs/2305.15265) work is covered by [Rice CS New](https://csweb.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications). -->
 
-- Three paper accepted to Neurips 2023.
+<!-- - Three paper accepted to Neurips 2023.
 
 - Two paper accepted to TMLR.
 
@@ -66,7 +68,7 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 
 - One paper accepted to MLSys 2023.
 
-- Two papers accepted to Neurips 2022, DreamShard and GNN Benchmark (Benchmark track).
+- Two papers accepted to Neurips 2022, DreamShard and GNN Benchmark (Benchmark track). -->
 
 
 ### Publications
