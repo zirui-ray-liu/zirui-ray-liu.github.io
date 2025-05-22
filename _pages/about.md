@@ -40,7 +40,7 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 <!-- Feel free to reach out if you would like to collaborate on LLM, MLSys or on-device ML research. -->
 
 
-<!-- 📧📧 **<span style="color: red">Recruiting 2025 Fall Ph.D. students and interns</span>: I am always looking for self-motivated students with strong coding skills**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume, transcripts, and a short description of why you'd like to work with me. -->
+📧📧 **<span style="color: red">Recruiting Research interns</span>: I am always looking for self-motivated students with strong coding skills**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume, transcripts, and a short description of why you'd like to work with me.
 
 ### News
 
