@@ -44,6 +44,8 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 
 ### News
 
+- Received NSF CIRC planning, NSF NAIRR (150K AWS Credits), UMN DSI Internal Funding, and Adobe Gifts. Thanks NSF, UMN DSI, and Adobe!
+
 - One paper accepted at ICML 2025. Previously In [KIVI](https://arxiv.org/pdf/2402.02750.pdf) we observed K cache has outlier channels, while V doesn't. In this [ICML 2025 paper](https://arxiv.org/abs/2502.01563), we found that this observation is caused by RoPE.
 
 - Giving one tutorial at AAAI 2025 about KV Cache Optimization. Slide can be found [here](https://github.com/henryzhongsc/longctx_bench/issues/6)
