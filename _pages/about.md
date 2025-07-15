@@ -17,8 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 ### About me
 
-I’m Zirui "Ray" Liu, an assistant professor from the Department of [Computer Science at UMN](https://cse.umn.edu/cs). Previously I graduated from [Computer Science at Rice University](https://cs.rice.edu/).
-<!-- co-advised by Dr. [Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://cs.rice.edu/~vb21/). -->
+I’m Zirui "Ray" Liu, an assistant professor from the Department of [Computer Science at UMN](https://cse.umn.edu/cs). Previously I graduated from [Computer Science at Rice University](https://cs.rice.edu/), where I worked with Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://www.cs.jhu.edu/~vova/).
 
 I am mostly interested in *Large Language Models* and their applications, focusing on enabling them to **combine and process information from diverse sources and domains**.  For that reason I deeply care about **efficiency, reasoning, long-context ability, and understanding their inner working mechanism**. I also enjoy **extending foundation models to other domains**, exploring the interplay between different source of data.
 
@@ -43,6 +42,10 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 📧📧 **<span style="color: red">Recruiting</span>: I am always looking for PhD students and research interns with strong coding skills**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume, transcripts, and a short description of why you'd like to work with me.
 
 ### News
+
+- 2025/7. We are organizing the [VISION workshop](https://vision-workshop.github.io/iccv-2025/) at ICCV about industrial inspection.
+
+- Gave a talk ([Paper](https://arxiv.org/pdf/2411.14914v1) | [Record](https://www.youtube.com/watch?v=xtzACc7qbyI&feature=youtu.be) | [Slide](https://asap-seminar.github.io/assets/slides/deltaformer_slide.pdf)) at [ASAP seminar](https://asap-seminar.github.io/) about the impact of numerical precision to LLM reasoning evaluation.
 
 - Received NSF CIRC planning, NSF NAIRR, UMN DSI Internal Funding, and Adobe Gifts. Thanks NSF, UMN DSI, and Adobe!
 
