@@ -45,7 +45,7 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 
 - 2025/7. We are organizing the [VISION workshop](https://vision-workshop.github.io/iccv-2025/) at ICCV about industrial inspection.
 
-- Gave a talk ([Paper](https://arxiv.org/abs/2506.09501), [Record](https://www.youtube.com/watch?v=xtzACc7qbyI&feature=youtu.be), [Slide](https://asap-seminar.github.io/assets/slides/deltaformer_slide.pdf)) at [ASAP seminar](https://asap-seminar.github.io/) about the impact of numerical precision to LLM reasoning evaluation.
+- Gave a talk ([Paper](https://arxiv.org/abs/2506.09501), [Record](https://www.youtube.com/watch?v=xtzACc7qbyI&feature=youtu.be), [Slide](https://asap-seminar.github.io/assets/slides/Numerical_Precision.pdf)) at [ASAP seminar](https://asap-seminar.github.io/) about the impact of numerical precision to LLM reasoning evaluation.
 
 - Received NSF CIRC planning, NSF NAIRR, UMN DSI Internal Funding, and Adobe Gifts. Thanks NSF, UMN DSI, and Adobe!
 
