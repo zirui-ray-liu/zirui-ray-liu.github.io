@@ -47,7 +47,7 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 
 - Gave a talk ([Paper](https://arxiv.org/abs/2506.09501), [Record](https://www.youtube.com/watch?v=xtzACc7qbyI&feature=youtu.be), [Slide](https://asap-seminar.github.io/assets/slides/Numerical_Precision.pdf)) at [ASAP seminar](https://asap-seminar.github.io/) about the impact of numerical precision to LLM reasoning evaluation.
 
-- Received NSF CIRC planning, NSF NAIRR, UMN DSI Internal Funding, and Adobe Gifts. Thanks NSF, UMN DSI, and Adobe!
+- Received NSF CIRC planning, NSF NAIRR Pilot, UMN DSI Internal Funding, and Adobe Gifts. Thanks NSF, UMN DSI, and Adobe!
 
 - One paper accepted at ICML 2025. Previously In [KIVI](https://arxiv.org/pdf/2402.02750.pdf) we observed K cache has outlier channels, while V doesn't. In this [ICML 2025 paper](https://arxiv.org/abs/2502.01563), we found that this observation is caused by RoPE.
 

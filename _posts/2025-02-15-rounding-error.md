@@ -2,8 +2,8 @@
 layout: post
 title: Rounding Errors of FP16 and its impact in Machine Learning
 date: 2024-11-22
-tags: Numerical
-categories: Numerical
+tags: Infrastructure
+categories: Infrastructure
 pseudocode: true
 ---
 
