@@ -43,6 +43,9 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 
 ### News
 
+- Four paper accepted at EMNLP 2025 (1 **Oral**, 3 Findings). Three paper accepted at Neurips 2025 (1 **Oral**, 2 Poster). Kudo to my students and collaborators.
+
+
 - 2025/7. We are organizing the [VISION workshop](https://vision-workshop.github.io/iccv-2025/) at ICCV about industrial inspection.
 
 - Gave a talk ([Paper](https://arxiv.org/abs/2506.09501), [Record](https://www.youtube.com/watch?v=xtzACc7qbyI&feature=youtu.be), [Slide](https://asap-seminar.github.io/assets/slides/Numerical_Precision.pdf)) at [ASAP seminar](https://asap-seminar.github.io/) about the impact of numerical precision to LLM reasoning evaluation.
