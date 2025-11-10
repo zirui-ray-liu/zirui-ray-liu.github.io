@@ -44,7 +44,7 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 ### News
 
 
-- Four paper accepted at EMNLP 2025 (1 [**Oral**](https://github.com/wenyaxie023/WordSaladChopper) (cut repetation in a plug-in-play way), 3 Findings). Three paper accepted at Neurips 2025 (1 [**Oral**](https://github.com/nanomaoli/llm_reproducibility) (numerical stability of reasoning), 2 Poster). Kudo to my students and collaborators. Please star them if you find them are useful for your research!
+- Four paper accepted at EMNLP 2025 (1 [Oral](https://github.com/wenyaxie023/WordSaladChopper) (cut repetation in a plug-in-play way), 3 Findings). Three paper accepted at Neurips 2025 (1 [Oral](https://github.com/nanomaoli/llm_reproducibility) (numerical stability of reasoning), 2 Poster). Kudo to my students and collaborators. Please star them if you find them are useful for your research!
 
 
 - 2025/7. We are organizing the [VISION workshop](https://vision-workshop.github.io/iccv-2025/) at ICCV about industrial inspection.
