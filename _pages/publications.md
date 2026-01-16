@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Publications & Preprints.
 years: [2025, 2024, 2023, 2022, 2021, 2020]
-nav: true
+nav: false
 nav_order: 1
 ---
 

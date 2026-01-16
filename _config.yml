@@ -125,7 +125,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Reads Like Teen Spirit # blog_name will be displayed in your blog page
+blog_name: Come As You Are # blog_name will be displayed in your blog page
 blog_description: Blogs about GenAI
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts

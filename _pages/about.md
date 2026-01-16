@@ -43,6 +43,7 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 
 ### News
 
+- 🔥🔥 We release a monkey patch [toolkit](https://github.com/nanomaoli/llm_reproducibility) that enables deterministic LLM inference and eliminates the training-inference mismatch in RL. Check our [paper](https://arxiv.org/pdf/2511.17826), [blog](https://festive-clam-15f.notion.site/Enabling-Large-Scale-True-on-Policy-RL-by-Bringing-Tensor-Parallelism-to-Order-2b039f5cabfa807b9770fcbe339f0f9b) and official [PR to SGLang](https://github.com/sgl-project/sglang/pull/15041)! 
 
 - Four paper accepted at EMNLP 2025 (1 [Oral](https://github.com/wenyaxie023/WordSaladChopper) (cut repetation in a plug-in-play way), 3 Findings). Three paper accepted at Neurips 2025 (1 [Oral](https://github.com/nanomaoli/llm_reproducibility) (numerical stability of reasoning), 2 Poster). Kudo to my students and collaborators. Please star them if you find them are useful for your research!
 
@@ -84,6 +85,3 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 - Two papers accepted to Neurips 2022, DreamShard and GNN Benchmark (Benchmark track). -->
 
 
-### Publications
-
-Please refer to [publications](https://scholar.google.com/citations?user=0i1w_egAAAAJ) or [Google Scholar](https://scholar.google.com/citations?user=0i1w_egAAAAJ).
