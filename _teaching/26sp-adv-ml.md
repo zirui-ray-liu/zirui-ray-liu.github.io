@@ -17,7 +17,7 @@ related_publications:
 
 **Location**: Keller Hall 3-230
 
-**Office Hour**: Friday 2-3PM. Hybrid. Office Number TBD. [Zoom Link](https://umn.zoom.us/j/92450959680)
+**Office Hour**: Friday 2-3PM. Hybrid. Office Number Keller 1-201, Table #3. [Zoom Link](https://umn.zoom.us/j/92450959680)
 
 
 #### **Textbooks**
@@ -44,6 +44,6 @@ The course is organized into three parts. In Supervised Learning, we will learn 
 |---------|------|-------|------|----------|
 | Lecture 1 | 1/20 | Introduction | - | - |
 | Lecture 2 | 1/22 | Linear Regression | - | - |
-| Lecture 3 | - | - | - | - |
-| Lecture 4 | - | - | - | - |
-| Lecture 5 | - | - | - | - |
+| Lecture 3 | 1/27 | Introduction to Probabilistic Modeling with Linear Regression  | - | - |
+| Lecture 4 | 1/29 | Generalization, Model selection and Occam's razor | - | - |
+| Lecture 5 | 2/3 | Bayesian Decision Theory | Quiz 1 on Linear Rgression and Bayes | - |
