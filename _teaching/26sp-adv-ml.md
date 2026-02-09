@@ -36,6 +36,53 @@ related_publications:
 
 The course is organized into three parts. In Supervised Learning, we will learn popular ML methods ranging from linear regression, boosting trees, to deep neural networks, and the Transformer architecture that powers modern AI. In Unsupervised Learning, we will learn how machines generate content through autoregressive modeling, Variational Autoencoders, and Diffusion models, which are the engines behind today's text, image and video generation systems. In Reinforcement Learning, we will learn how AI agents make decisions through policy gradients and Proximal Policy Optimization, the same techniques used to train ChatGPT and create game-playing AI.
 
+#### **Topics Covered**
+
+**Part I. Supervised Learning**
+- Machine Learning Basics
+- Linear Regression
+<!-- - Boosting Trees -->
+- Deep Neural Networks
+  - Automatic Differentiation
+  - Stochastic Optimization
+  - Transformer Architectures
+
+**Part II. Unsupervised Learning**
+- Autoregressive Modeling
+- Variational Autoencoders
+- Diffusion
+
+**Part III. Reinforcement Learning**
+- Reinforcement Learning Basics
+- Policy Gradient
+- Advantage Estimation & Value Function
+- Proximal Policy Optimization
+
+#### **Grading Policy**
+
+| Component | Weight |
+|-----------|--------|
+| **In-class assessments** | **40%** |
+| — Quiz I & Quiz II | 15% (best score of the two is kept; lower score is dropped) |
+| — Final Exam | 25% |
+| **Take-home programming assignments** | **60%** |
+| — Assignment 1 | 20% |
+| — Assignment 2 | 20% |
+| — Assignment 3 | 20% |
+| Bonus points | 2 pts each, announced on Canvas |
+
+Assignments can be completed in teams of up to 2 students.
+
+#### **Late Policy**
+
+Late submissions will **not** be accepted.
+
+#### **Academic Integrity**
+
+- Each assignment can be carried out by a team of 2 students. We encourage you to find teams early in the semester.
+- Use of GenAI tools (e.g., ChatGPT) is allowed, but you must include clear citations for any parts where you use AI.
+- Caveat: Research shows that relying entirely on GenAI harms learning. Focus on your own learning rather than simply putting together a submission.
+
 #### **Course Schedule (tentative)**
 
 *The course schedule may be changed.*
@@ -46,4 +93,6 @@ The course is organized into three parts. In Supervised Learning, we will learn 
 | Lecture 2 | 1/22 | Linear Regression | - | - |
 | Lecture 3 | 1/27 | Introduction to Probabilistic Modeling with Linear Regression  | - | - |
 | Lecture 4 | 1/29 | Generalization, Model selection and Occam's razor | - | - |
-| Lecture 5 | 2/3 | Bayesian Decision Theory | Quiz 1 on Linear Rgression and Bayes | - |
+| Lecture 5 | 2/3 | Bayesian Decision Theory | Quiz 1 on Linear Rgression and Bayes | HW1 is out |
+| Lecture 6 | 2/5 | Reverse-mode Automated Differentation | - | - |
+| Lecture 7 | 2/10 | Transformer Architecture | - | - |
