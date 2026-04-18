@@ -43,6 +43,12 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 
 ### News
 
+<div class="news-scroll" markdown="1">
+
+- One paper accepted at CVPR 2026 (Findings) on vision chain-of-thought dataset, one at ICLR 2026 on retrieval of thoughts, and one at ACL 2026 on LLM memory. Congrats to all students and collaborators!
+
+- Received research gifts from Cisco, Amazon, NVIDIA Academic Grant Program, and UMN CTS. Many thanks to Cisco, Amazon, NVIDIA, and UMN CTS for their generous support!
+
 - 🔥🔥 We release a monkey patch [toolkit](https://github.com/nanomaoli/llm_reproducibility) that enables deterministic LLM inference and eliminates the training-inference mismatch in RL. Check our [paper](https://arxiv.org/pdf/2511.17826), [blog](https://festive-clam-15f.notion.site/Enabling-Large-Scale-True-on-Policy-RL-by-Bringing-Tensor-Parallelism-to-Order-2b039f5cabfa807b9770fcbe339f0f9b) and official [PR to SGLang](https://github.com/sgl-project/sglang/pull/15041)! 
 
 - Four paper accepted at EMNLP 2025 (1 [Oral](https://github.com/wenyaxie023/WordSaladChopper) (cut repetation in a plug-in-play way), 3 Findings). Three paper accepted at Neurips 2025 (1 [Oral](https://github.com/nanomaoli/llm_reproducibility) (numerical stability of reasoning), 2 Poster). Kudo to my students and collaborators. Please star them if you find them are useful for your research!
@@ -71,6 +77,7 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 
 - Our [KIVI](https://arxiv.org/pdf/2402.02750.pdf), [Self-Extend](https://arxiv.org/abs/2401.01325), and [Compress-then-prompt](https://openreview.net/forum?id=muBJPCIqZT) are accepted by ICML 2024. [Self-Extend](https://arxiv.org/abs/2401.01325) has been selected as <span style="color: red"><span style="color: red">Spotlight (3.5%)</span></span> at ICML2024!
 
+</div>
 
 <!-- - Our [Memory-Efficient LLM fine-tuning](https://arxiv.org/abs/2305.15265) work is covered by [Rice CS New](https://csweb.rice.edu/news/rice-cs-xia-ben-hu-investigates-llms-and-likely-applications). -->
 

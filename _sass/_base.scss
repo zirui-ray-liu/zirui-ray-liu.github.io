@@ -1148,6 +1148,38 @@ ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-bg-color);
 }
 
+// scrollable news list on the about page
+.news-scroll {
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: 12px;
+  margin-bottom: 20px;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+  padding: 12px 16px;
+  background-color: var(--global-card-bg-color, transparent);
+
+  ul {
+    margin-bottom: 0;
+  }
+
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: var(--global-divider-color);
+    border-radius: 4px;
+  }
+
+  scrollbar-width: thin;
+  scrollbar-color: var(--global-divider-color) transparent;
+}
+
 // newsletter
 .newsletter-form-container {
   margin-bottom: 20px;
