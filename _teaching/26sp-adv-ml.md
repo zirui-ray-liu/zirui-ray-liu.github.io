@@ -87,12 +87,22 @@ Late submissions will **not** be accepted.
 
 *The course schedule may be changed.*
 
-| Lecture | Date | Topic | Quiz | Homework |
-|---------|------|-------|------|----------|
-| Lecture 1 | 1/20 | Introduction | - | - |
-| Lecture 2 | 1/22 | Linear Regression | - | - |
-| Lecture 3 | 1/27 | Introduction to Probabilistic Modeling with Linear Regression  | - | - |
-| Lecture 4 | 1/29 | Generalization, Model selection and Occam's razor | - | - |
-| Lecture 5 | 2/3 | Bayesian Decision Theory | Quiz 1 on Linear Rgression and Bayes | HW1 is out |
-| Lecture 6 | 2/5 | Reverse-mode Automated Differentation | - | - |
-| Lecture 7 | 2/10 | Transformer Architecture | - | - |
+| Lecture | Topic | Quiz | Homework |
+|---------|-------|------|----------|
+| Lecture 1 | Introduction | - | - |
+| Lecture 2 | Linear Regression | - | - |
+| Lecture 3 | Introduction to Probabilistic Modeling with Linear Regression | - | - |
+| Lecture 4 | Generalization, Model Selection and Occam's Razor | - | - |
+| Lecture 5 | Bayesian Decision Theory | Quiz 1 on Linear Regression and Bayes | HW1 out |
+| Lecture 6 | Reverse-mode Automatic Differentiation | - | - |
+| Lecture 7 | Transformer Architecture | - | - |
+| Lecture 8 | Encoder-Decoder Architecture & Positional Embedding | - | - |
+| Lecture 9 | PyTorch Autograd & Neural Network Training | - | - |
+| Lecture 10 | LLM Alignment | - | - |
+| Lecture 11 | Transformer Review & Discussion | - | - |
+| Lecture 12 | Variational Autoencoders | - | - |
+| Lecture 14 | Diffusion Models | - | - |
+| Lecture 15 | Introduction to Reinforcement Learning | - | - |
+| Lecture 16 | Markov Decision Processes | - | - |
+| Lecture 17 | Model-Free Prediction | - | - |
+| Lecture 18 | Policy Gradient | - | - |
