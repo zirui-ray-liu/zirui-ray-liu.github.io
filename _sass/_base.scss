@@ -217,7 +217,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 16%;
 
     .address {
       p {
@@ -1150,6 +1150,7 @@ ninja-keys::part(ninja-input-wrapper) {
 
 // scrollable news list on the about page
 .news-scroll {
+  clear: both;
   max-height: 400px;
   overflow-y: auto;
   padding-right: 12px;

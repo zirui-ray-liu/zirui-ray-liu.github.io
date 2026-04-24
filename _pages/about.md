@@ -19,8 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I’m Zirui "Ray" Liu, an assistant professor from the Department of [Computer Science at UMN](https://cse.umn.edu/cs). Previously I graduated from [Computer Science at Rice University](https://cs.rice.edu/), where I worked with Prof. [Xia Hu](https://cs.rice.edu/~xh37/index.html) and Prof. [Vladimir Braverman](https://www.cs.jhu.edu/~vova/).
 
-I am mostly interested in *Large Language Models* and their applications, focusing on enabling them to **combine and process information from diverse sources and domains**.  For that reason I deeply care about **efficiency, reasoning, long-context ability, and understanding their inner working mechanism**. I also enjoy **extending foundation models to other domains**, exploring the interplay between different source of data.
-
+I am mostly interested in **Large Language Models** and their applications, focusing on **long-horizon problems (long-context, long-reasoning, long-generation)** and **infrastructure**. See my [chef's selection]({{ '/projects/' | relative_url }}).  
 
 
 <!-- - **Core LLM:** like improving long-context/reasoning/retrieval/memory ability; designing experiments to understand LLMs. -->
@@ -39,7 +38,9 @@ I am mostly interested in *Large Language Models* and their applications, focusi
 <!-- Feel free to reach out if you would like to collaborate on LLM, MLSys or on-device ML research. -->
 
 
-📧📧 **<span style="color: red">Recruiting</span>: I am always looking for PhD students and research interns with strong coding skills**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume, transcripts, and a short description of why you'd like to work with me.
+<!-- 📧📧 **<span style="color: red">Recruiting</span>: I am always looking for PhD students and research interns with strong coding skills**. Feel free to drop me a line to [ziruiliu dot recruit at gmail dot com](mailto:ziruiliu.recruit@gmail.com) together with resume, transcripts, and a short description of why you'd like to work with me. -->
+
+<div style="clear: both;"></div>
 
 ### News
 
