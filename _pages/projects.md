@@ -74,7 +74,7 @@ nav_order: 2
           </div>
           <div class="tc-paper-body">
             <p class="tc-paper-meta">NeurIPS 2025 (Oral) · June 2025</p>
-            <p class="tc-paper-highlight">NeurIPS 2025 Oral Presentation</p>
+            <p class="tc-paper-highlight">NeurIPS 2025 Oral · Acknowledged in Thinking Machines Lab's blog</p>
             <h3 class="tc-paper-title">Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference</h3>
             <p class="tc-paper-authors">Jiayi Yuan*, Hao Li*, Xinheng Ding, Wenya Xie, Yu-Jhe Li, Wentian Zhao, Kun Wan, Jing Shi, Xia Hu, Zirui Liu</p>
             <p class="tc-paper-abstract">
@@ -91,6 +91,8 @@ nav_order: 2
         <a href="https://github.com/nanomaoli/llm_reproducibility" target="_blank" rel="noopener">Code</a>
         <span class="tc-dot">·</span>
         <a href="https://www.youtube.com/watch?v=xtzACc7qbyI" target="_blank" rel="noopener">Talk</a>
+        <span class="tc-dot">·</span>
+        <a href="https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/" target="_blank" rel="noopener">Thinking Machines Lab blog</a>
       </p>
     </article>
 

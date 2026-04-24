@@ -44,6 +44,9 @@ nav: false
       <a class="nerf-btn" href="https://asap-seminar.github.io/assets/slides/Numerical_Precision.pdf" target="_blank" rel="noopener">
         <i class="fa-solid fa-chalkboard"></i> Slides
       </a>
+      <a class="nerf-btn" href="https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/" target="_blank" rel="noopener">
+        <i class="fa-solid fa-newspaper"></i> Thinking Machines Lab blog
+      </a>
     </div>
   </header>
 
