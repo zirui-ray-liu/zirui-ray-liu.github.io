@@ -46,6 +46,8 @@ I am mostly interested in **Large Language Models** and their applications, focu
 
 <div class="news-scroll" markdown="1">
 
+- Three papers accepted at ICML 2026: one on deterministic GPU kernels, one (DTS) on enhancing large reasoning models via decoding tree sketching, and one on molecular dynamics. Congrats to all students and collaborators!
+
 - One paper accepted at CVPR 2026 (Findings) on vision chain-of-thought dataset, one at ICLR 2026 on retrieval of thoughts, and one at ACL 2026 on LLM memory. Congrats to all students and collaborators!
 
 - Received research gifts from Cisco, Amazon, NVIDIA Academic Grant Program, and UMN CTS. Many thanks to Cisco, Amazon, NVIDIA, and UMN CTS for their generous support!
