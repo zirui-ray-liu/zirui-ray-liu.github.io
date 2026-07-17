@@ -13,6 +13,36 @@ nav_order: 2
   <section class="tc-section">
 
     <article class="tc-paper">
+      <a class="tc-paper-link" href="https://wenyaxie023.github.io/DynamicMem/" target="_blank" rel="noopener">
+        <div class="tc-paper-grid">
+          <div class="tc-paper-fig">
+            {% include figure.liquid loading="eager" path="assets/img/projects/dynamicmem/overview.png" class="tc-paper-img" alt="DynamicMem data pipeline for long-horizon memory benchmark construction" %}
+          </div>
+          <div class="tc-paper-body">
+            <p class="tc-paper-meta">Preprint · June 2026</p>
+            <p class="tc-paper-highlight">Long-horizon memory benchmark across 15 months and 16 apps</p>
+            <h3 class="tc-paper-title">DynamicMem: A Long-Horizon Memory Benchmark in Real-World Settings</h3>
+            <p class="tc-paper-authors">Wenya Xie, Shengming Zhou, Zelin Li, Pouya Parsa, Shuang Zhou, Xinheng Ding, Chinmay Arvind, Guanchu Wang, Vladimir Braverman, Ali Payani, Yantao Zheng, Zirui Liu</p>
+            <p class="tc-paper-abstract">
+              DynamicMem evaluates whether memory systems can keep an evolving user profile current over months of multi-app activity. It builds 15-month trajectories with 2.2M tokens and 1,772 grounded events per user, then tests systems at quarterly checkpoints on state recovery and personalized service.
+            </p>
+          </div>
+        </div>
+      </a>
+      <p class="tc-paper-links">
+        <a href="https://wenyaxie023.github.io/DynamicMem/" target="_blank" rel="noopener">Project page</a>
+        <span class="tc-dot">·</span>
+        <a href="https://arxiv.org/abs/2606.22877" target="_blank" rel="noopener">Paper</a>
+        <span class="tc-dot">·</span>
+        <a href="https://github.com/wenyaxie023/DynamicMem" target="_blank" rel="noopener">Code</a>
+        <span class="tc-dot">·</span>
+        <a href="https://huggingface.co/datasets/xiewenya/dynamicmem" target="_blank" rel="noopener">Dataset</a>
+        <span class="tc-dot">·</span>
+        <a href="https://zirui-ray-liu.github.io/dynamicmem-viz/viz.html" target="_blank" rel="noopener">Visualizer</a>
+      </p>
+    </article>
+
+    <article class="tc-paper">
       <a class="tc-paper-link" href="{{ '/projects/mlsys-numerics/kivi/' | relative_url }}">
         <div class="tc-paper-grid">
           <div class="tc-paper-fig">

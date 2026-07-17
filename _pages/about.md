@@ -46,6 +46,8 @@ I am mostly interested in **Large Language Models** and their applications, focu
 
 <div class="news-scroll" markdown="1">
 
+- Released [DynamicMem](https://wenyaxie023.github.io/DynamicMem/), a long-horizon memory benchmark for real-world personal-assistant settings. Check out the [paper](https://arxiv.org/abs/2606.22877), [code](https://github.com/wenyaxie023/DynamicMem), and [dataset](https://huggingface.co/datasets/xiewenya/dynamicmem). We also released a [visualizer](https://zirui-ray-liu.github.io/dynamicmem-viz/viz.html) so you can try it out and get a sense of the data.
+
 - Three papers accepted at ICML 2026: one on deterministic GPU kernels, one (DTS) on enhancing large reasoning models via decoding tree sketching, and one on molecular dynamics. Congrats to all students and collaborators!
 
 - One paper accepted at CVPR 2026 (Findings) on vision chain-of-thought dataset, one at ICLR 2026 on retrieval of thoughts, and one at ACL 2026 on LLM memory. Congrats to all students and collaborators!
@@ -93,5 +95,3 @@ I am mostly interested in **Large Language Models** and their applications, focu
 - One paper accepted to MLSys 2023.
 
 - Two papers accepted to Neurips 2022, DreamShard and GNN Benchmark (Benchmark track). -->
-
-
